@@ -1,3 +1,3 @@
 ## Hey, this is us 👋
 
-<img src="../profile/teamMember.png" height="500" width="800">
+<img src="teamMember.png" height="500" width="800">
